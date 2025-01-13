@@ -58,7 +58,7 @@ const App = () => {
       }`}
     >
       <header className="flex  gap-20 justify-between items-center ">
-        <h1 className="text-3xl font-bold">Cipher Chatbot</h1>
+        <h1 className="text-3xl font-bold">Cipher Bot</h1>
         <div
           onClick={toggleTheme}
           className="cursor-pointer p-2 rounded-full bg-gray-200 dark:bg-gray-800 hover:bg-gray-300 dark:hover:bg-gray-700 transition-all"
